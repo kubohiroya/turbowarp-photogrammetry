@@ -1,6 +1,6 @@
 {
   "name": "@kubohiroya/turbowarp-photogrammetry",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "WebGPUによる逐次3D再構成 for TurboWarp (initial scaffold; algorithms not implemented).",
   "author": {
     "name": "Hiroya Kubo",
@@ -60,7 +60,7 @@
   "devDependencies": {
     "@eslint/js": "^9.39.5",
     "@kubohiroya/turbowarp-extension-manifest": "^0.5.0",
-    "@kubohiroya/vite-plugin-turbowarp-extension": "^0.10.0",
+    "@kubohiroya/vite-plugin-turbowarp-extension": "^0.11.0",
     "@types/node": "^24.13.3",
     "eslint": "^9.39.5",
     "typescript": "^5.9.3",
